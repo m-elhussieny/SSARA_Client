@@ -10,7 +10,7 @@ http://web-services.unavco.org/brokered/ssara/
 
 
 
-## Author Mahmoud
+# Author Mahmoud
 1. fix the ploblem of unicoding using urllib
-2. change the url for downloading orbit files from [not working](https://qc.sentinel1.eo.esa.int/) to [current url](http://step.esa.int/)
+2. change the url for downloading orbit files from (https://qc.sentinel1.eo.esa.int/) to [current url](http://step.esa.int/auxdata/orbits/Sentinel-1/)
 3. add jupyter notebook file containg some exaple and work flow to extract .EOF file from zipped archive 
