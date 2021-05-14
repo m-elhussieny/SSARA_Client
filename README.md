@@ -11,6 +11,7 @@ http://web-services.unavco.org/brokered/ssara/
 
 
 # Author Mahmoud
-1. fix the ploblem of unicoding using urllib
-2. change the url for downloading orbit files from (https://qc.sentinel1.eo.esa.int/) to [current url](http://step.esa.int/auxdata/orbits/Sentinel-1/)
-3. add jupyter notebook file containg some exaple and work flow to extract .EOF file from zipped archive 
+the source code is downloaded from [here.](https://www.unavco.org/gitlab/unavco_public/ssara_client)
+1. fix the ploblem of unicoding using urllib.
+2. change the url for downloading orbit files from (https://qc.sentinel1.eo.esa.int/) to [current url.](http://step.esa.int/auxdata/orbits/Sentinel-1/)
+3. add jupyter notebook file containg some exaple and work flow to extract .EOF file from zipped archive. 
